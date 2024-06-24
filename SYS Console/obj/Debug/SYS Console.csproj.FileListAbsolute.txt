@@ -1,0 +1,18 @@
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Debug\SYS Console.exe.config
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Debug\SYS Console.exe
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Debug\SYS Console.pdb
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Debug\sys.dll
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Debug\sys.pdb
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Debug\SYS Console.csprojResolveAssemblyReference.cache
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Debug\SYS Console.exe
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Debug\SYS Console.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Debug\SYS Console.csprojResolveAssemblyReference.cache
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Debug\SYS Console.exe.config
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Debug\SYS Console.exe
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Debug\SYS Console.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Debug\sys.dll
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Debug\sys.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Debug\SYS Console.exe
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Debug\SYS Console.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Debug\SYS Console.csproj.CoreCompileInputs.cache
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Debug\SYS Console.csproj.CoreCompileInputs.cache

@@ -1,0 +1,74 @@
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe.config
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.pdb
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csprojResolveAssemblyReference.cache
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.frmMain.resources
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.Properties.Resources.resources
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csproj.GenerateResource.Cache
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.exe
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.pdb
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe.config
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.pdb
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csprojResolveAssemblyReference.cache
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.frmMain.resources
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.Properties.Resources.resources
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csproj.GenerateResource.Cache
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.exe
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.pdb
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe.config
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.exe
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.pdb
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.pdb
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csprojResolveAssemblyReference.cache
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.frmMain.resources
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.Properties.Resources.resources
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csproj.GenerateResource.Cache
+C:\BACKUP\SOURCECODE FLASH DRIVE\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe.config
+C:\BACKUP\SOURCECODE FLASH DRIVE\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe
+C:\BACKUP\SOURCECODE FLASH DRIVE\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.pdb
+C:\BACKUP\SOURCECODE FLASH DRIVE\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csprojResolveAssemblyReference.cache
+C:\BACKUP\SOURCECODE FLASH DRIVE\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.frmMain.resources
+C:\BACKUP\SOURCECODE FLASH DRIVE\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.Properties.Resources.resources
+C:\BACKUP\SOURCECODE FLASH DRIVE\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csproj.GenerateResource.Cache
+C:\BACKUP\SOURCECODE FLASH DRIVE\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.exe
+C:\BACKUP\SOURCECODE FLASH DRIVE\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.pdb
+G:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe.config
+G:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.exe
+G:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.pdb
+G:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe
+G:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.pdb
+G:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csprojResolveAssemblyReference.cache
+G:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.frmMain.resources
+G:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.Properties.Resources.resources
+G:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csproj.GenerateResource.Cache
+F:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe.config
+F:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe
+F:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.pdb
+F:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csprojResolveAssemblyReference.cache
+F:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.frmMain.resources
+F:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.Properties.Resources.resources
+F:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csproj.GenerateResource.Cache
+F:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.exe
+F:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe.config
+E:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe
+E:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.frmMain.resources
+E:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.Properties.Resources.resources
+E:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csproj.GenerateResource.Cache
+E:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.exe
+E:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.pdb
+D:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe.config
+D:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.exe
+D:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\bin\Release\GetServerInfo.pdb
+D:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csprojAssemblyReference.cache
+D:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.frmMain.resources
+D:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.Properties.Resources.resources
+D:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csproj.GenerateResource.cache
+D:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csproj.CoreCompileInputs.cache
+D:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.exe
+D:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csprojAssemblyReference.cache
+E:\SOURCECODE\PROJECTS\VS 2013\sys\GetServerInfo\obj\Release\GetServerInfo.csproj.CoreCompileInputs.cache

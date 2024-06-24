@@ -1,0 +1,12 @@
+D:\SOURCECODE\PROJECTS\VS 2013\sys\sys\bin\Debug\sys.dll
+D:\SOURCECODE\PROJECTS\VS 2013\sys\sys\bin\Debug\sys.pdb
+D:\SOURCECODE\PROJECTS\VS 2013\sys\sys\obj\Debug\sys.dll
+D:\SOURCECODE\PROJECTS\VS 2013\sys\sys\obj\Debug\sys.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\sys\bin\Debug\sys.dll
+E:\SOURCECODE\PROJECTS\VS 2013\sys\sys\bin\Debug\sys.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\sys\obj\Debug\sys.dll
+E:\SOURCECODE\PROJECTS\VS 2013\sys\sys\obj\Debug\sys.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\sys\obj\Debug\sys.csprojResolveAssemblyReference.cache
+E:\SOURCECODE\PROJECTS\VS 2013\sys\sys\obj\Debug\sys.csproj.CoreCompileInputs.cache
+D:\SOURCECODE\PROJECTS\VS 2013\sys\sys\obj\Debug\sys.csprojResolveAssemblyReference.cache
+D:\SOURCECODE\PROJECTS\VS 2013\sys\sys\obj\Debug\sys.csproj.CoreCompileInputs.cache

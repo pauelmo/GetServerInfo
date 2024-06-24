@@ -1,0 +1,68 @@
+C:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe.config
+C:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe
+C:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.pdb
+C:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.csprojResolveAssemblyReference.cache
+C:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.exe
+C:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.pdb
+C:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.dll
+C:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.pdb
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe.config
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.pdb
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.dll
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.pdb
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.csprojResolveAssemblyReference.cache
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.exe
+D:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.pdb
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe.config
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.pdb
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.dll
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.pdb
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.csprojResolveAssemblyReference.cache
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.exe
+E:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.pdb
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe.config
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.pdb
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.dll
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.pdb
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.csprojResolveAssemblyReference.cache
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.exe
+G:\BACKUP\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.pdb
+G:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe.config
+G:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe
+G:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.pdb
+G:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.dll
+G:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.pdb
+G:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.csprojResolveAssemblyReference.cache
+G:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.exe
+G:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.pdb
+F:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe.config
+F:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe
+F:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.pdb
+F:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.dll
+F:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.pdb
+F:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.csprojResolveAssemblyReference.cache
+F:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.exe
+F:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe.config
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.dll
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.exe
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.pdb
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe.config
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.exe
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\SYS Console.pdb
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.dll
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\bin\Release\sys.pdb
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.csprojAssemblyReference.cache
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.csproj.CoreCompileInputs.cache
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.csproj.CopyComplete
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.exe
+D:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.pdb
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.csprojAssemblyReference.cache
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.csproj.CoreCompileInputs.cache
+E:\SOURCECODE\PROJECTS\VS 2013\sys\SYS Console\obj\Release\SYS Console.csproj.CopyComplete

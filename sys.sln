@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sys", "sys\sys.csproj", "{BF690FD3-A90C-4FB7-BC31-1F2166AF0873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYS Console", "SYS Console\SYS Console.csproj", "{2FECAC5C-DD93-4909-AF04-6EBA43020065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetServerInfo", "GetServerInfo\GetServerInfo.csproj", "{722E53AA-E016-40AD-8152-A821252F03A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF690FD3-A90C-4FB7-BC31-1F2166AF0873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF690FD3-A90C-4FB7-BC31-1F2166AF0873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF690FD3-A90C-4FB7-BC31-1F2166AF0873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF690FD3-A90C-4FB7-BC31-1F2166AF0873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FECAC5C-DD93-4909-AF04-6EBA43020065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FECAC5C-DD93-4909-AF04-6EBA43020065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FECAC5C-DD93-4909-AF04-6EBA43020065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FECAC5C-DD93-4909-AF04-6EBA43020065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{722E53AA-E016-40AD-8152-A821252F03A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722E53AA-E016-40AD-8152-A821252F03A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722E53AA-E016-40AD-8152-A821252F03A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722E53AA-E016-40AD-8152-A821252F03A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
